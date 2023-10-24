@@ -1,6 +1,6 @@
 # SmileRacer
 
-[![Demo video of Smile Racer](https://github.com/ajp4707/SmileRacer/assets/52212289/6a948ac6-9733-47a0-bafe-eaddf670b912)](https://www.youtube.com/watch?v=bjrUNUBFjOI "Smile Racer")
+[![Demo video of Smile Racer](./docs/images/thumbnail.JPG)](https://www.youtube.com/watch?v=bjrUNUBFjOI "Smile Racer")
 
 Repo under construction!
 
